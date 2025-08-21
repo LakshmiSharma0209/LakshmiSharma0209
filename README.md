@@ -7,8 +7,8 @@ I'm a data professional passionate about turning complex data into clear, action
 ### Key Skills
 
 * **Languages:** Python, SQL
-* **Data Analysis:** Microsoft Excel, Data Visualization, Report Generation
-* **Automation:** Workflow Scripting, Process Automation
+* **Data Analysis & Visualization:** Microsoft Excel, Power BI, Report Generation
+* **Tools:** Git
 
 ---
 
